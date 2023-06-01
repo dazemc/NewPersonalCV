@@ -1,6 +1,6 @@
 # Daazed McFarland's Portfolio
 
-This repository contains the source code for Daazed McFarland's portfolio website. The website showcases Daazed's projects, skills, and experiences as a software developer.
+This repository contains the source code for my portfolio website. The website showcases my projects, skills, and experiences as a software developer.
 
 ## Table of Contents
 - [About](#about)
@@ -10,17 +10,17 @@ This repository contains the source code for Daazed McFarland's portfolio websit
 - [License](#license)
 
 ## About
-The portfolio website provides an overview of Daazed McFarland's background and skills as a software developer. It includes a brief introduction, information about Daazed's experience and expertise, and a section highlighting some of the projects worked on.
+The portfolio website provides an overview of my background and skills as a software developer. It includes a brief introduction, information about my experience and expertise, and a section highlighting some of the projects worked on.
 
 ## Projects
 The portfolio showcases several projects, including:
 
 1. E-Ink Color Picture Display in Python
-   - Description: Displays images on an e-ink display. The frame is also available and designed by Daazed in Fusion 360.
+   - Description: Displays images on an e-ink display. The frame is also available and designed by me in Fusion 360.
    - GitHub Repository: [E-Ink Picture Frame](https://github.com/dazemc/E-Ink_Picture_Frame)
 
 2. Contributing to community projects
-   - Description: Made numerous commits to a Monte-Carlo simulator web app. Daazed hosts the site on GitHub Pages and uses GitHub Actions to automate the database files through an API script.
+   - Description: Made numerous commits to a Monte-Carlo simulator web app. I host the site on GitHub Pages and uses GitHub Actions to automate the database files through an API script.
    - GitHub Repository: [FFXIV Craft](https://github.com/dazemc/ffxiv-craft)
 
 3. Twilio SMS Notifier
@@ -50,4 +50,4 @@ To run the portfolio website locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/dazemc/NewPersonalCV.git`
 2. Open the `index.html` file in a web browser.
 
-Feel free to explore the projects and learn more about Daazed McFarland's work!
+Feel free to explore the projects and learn more about my work!
