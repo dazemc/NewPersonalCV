@@ -51,3 +51,10 @@ To run the portfolio website locally, follow these steps:
 2. Open the `index.html` file in a web browser.
 
 Feel free to explore the projects and learn more about my work!
+
+## To-Do
+
+1. Convert inline CSS to external CSS
+2. Fix mobile padding (Maybe set to 0px to overwrite defaults)
+3. Add more projects
+4. Clean up Navbar and add drop-down animation 
