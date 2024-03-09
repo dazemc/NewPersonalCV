@@ -1,27 +1,18 @@
 UPDATING, this is woefully out of date.
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+# ~~Daazed McFarland's Portfolio~~
 
-# Daazed McFarland's Portfolio
-
-This repository contains the source code for my portfolio website. The website showcases my projects, skills, and experiences as a software developer.
+~~This repository contains the source code for my portfolio website. The website showcases my projects, skills, and experiences as a software developer.~~
 
 ## Table of Contents
 - [About](#about)
